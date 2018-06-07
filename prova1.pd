@@ -1,0 +1,6 @@
+#N canvas 559 245 450 300 10;
+#X msg 95 86 pd numero;
+#X msg 95 59 10;
+#X floatatom 90 159 5 0 0 0 - - -, f 5;
+#X connect 0 0 2 0;
+#X connect 1 0 0 0;
